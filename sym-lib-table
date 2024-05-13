@@ -1,0 +1,4 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "Lacuna_LM1085")(type "KiCad")(uri "${KIPRJMOD}/LM1085.kicad_sym")(options "")(descr ""))
+)
